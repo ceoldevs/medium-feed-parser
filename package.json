@@ -1,5 +1,5 @@
 {
-    "name": "medium-feed-parser",
+    "name": "@ceol/medium-feed-parser",
     "version": "0.1.0",
     "main": "./lib/medium-parse.js",
     "author": "Sri Meher Chaitanya Varma Nadimpalli <meherchaitanya18802@gmail.com> (https://smc181002.me)",
