@@ -1,0 +1,24 @@
+{
+    "name": "medium-feed-parser",
+    "version": "0.1.0",
+    "main": "./lib/medium-parse.js",
+    "author": "Sri Meher Chaitanya Varma Nadimpalli <meherchaitanya18802@gmail.com> (https://smc181002.me)",
+    "contributors": [ ],
+    "license": "MIT",
+    "dependencies": {
+        "xml2js": "^0.5.0"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "files": [
+        "lib"
+    ],
+    "directories": {
+        "lib": "./lib"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ceoldevs/medium-feed-parser.git"
+    }
+}
