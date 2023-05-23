@@ -20,5 +20,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/ceoldevs/medium-feed-parser.git"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
